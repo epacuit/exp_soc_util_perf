@@ -1,0 +1,10 @@
+streamlit
+pref_voting
+pandas
+scipy
+plotly
+altair
+numpy
+seaborn
+matplotlib
+google-cloud-storage
