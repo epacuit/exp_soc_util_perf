@@ -2,3 +2,5 @@
 */.DS_Store
 */.idea
 */.vscode
+webapp/__pycache__
+webapp/__pycache__/*
