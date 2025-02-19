@@ -14,6 +14,6 @@ This repository contains the following files:
 3. graphs.ipynb: This notebook contains the code to create the graphs displayed in the paper.
 
 4. data/: This folder contains the generated data for the paper.
-**Note**: The data files for the main simualation are too large to be stored on GitHub.  They will be downloaded from the Google cloud storage when the notebook is run.  
+**Note**: The data files for the main simulation are too large to be stored on GitHub.  They will be downloaded from the Google cloud storage when the notebook is run.  
 
 5. webapp/: This folder contains the code for the web application that allows users to interact with the simulation.  To run this web application locally, you need to have ``streamlit`` installed.  You can install it by running ``pip install streamlit``.  Then, you can run the application from the directory ``webapp`` by running ``streamlit run Expected_Utility_Performance.py``.  The application will then be available at ``http://localhost:8501``.  An online version of the application is available at [https://exp-soc-util-perf.pacuit.org/](https://exp-soc-util-perf.pacuit.org/).
